@@ -4,6 +4,8 @@
   Software engineer specializing in local-first Android client applications, cross-platform Flutter architecture, and self-hosted infrastructure management tools.
 </p>
 
+<img src="assets/showcase.gif" alt="Application Showcase Carousel" width="320" />
+
 </div>
 
 ---
