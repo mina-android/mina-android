@@ -1,9 +1,5 @@
 <div align="center">
 
-# mina-android
-
-[![Platform](https://img.shields.io/badge/Focus-Android%20%7C%20Flutter%20%7C%20Systems-lightgrey.svg?style=flat-square)](https://github.com/mina-android) [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-blue.svg?style=flat-square)](https://portfolio.minaashraf285.workers.dev/) [![License](https://img.shields.io/badge/Projects-GPL--3.0%20%2F%20MIT-black.svg?style=flat-square)](https://github.com/mina-android?tab=repositories) [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-brightgreen.svg?style=flat-square)](https://github.com/sponsors/mina-android)
-
 <p align="center">
   Software engineer specializing in local-first Android client applications, cross-platform Flutter architecture, and self-hosted infrastructure management tools.
 </p>
