@@ -18,8 +18,6 @@
   <a href="mailto:minaashraf285@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="38" /></a>
 </p>
 
-<img src="assets/showcase.gif" alt="Application Showcase Carousel" width="320" />
-
 </div>
 
 ---
