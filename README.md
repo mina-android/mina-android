@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.svg" alt="Mina Ashraf Logo" width="72" height="72" />
-
+<img src="assets/logo.svg" alt="Mina Ashraf Logo" width="150" height="150" />
 # Mina Ashraf Monir
 
 ### Software Engineer & IT Specialist
