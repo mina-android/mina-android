@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="36" viewBox="0 0 112 36" fill="none">
+  <rect x="0.75" y="0.75" width="110.5" height="34.5" rx="6" fill="#102843" stroke="#3DA9FC" stroke-width="1.5"/>
+  <g transform="translate(14, 10)" fill="#3DA9FC">
+    <path d="M3.32 2.33a1.67 1.67 0 1 1 0 3.34 1.67 1.67 0 0 1 0-3.34ZM2 6h2.67v8H2V6Zm4.67 0h2.53v1.09h.03c.35-.67 1.22-1.37 2.51-1.37 2.69 0 3.19 1.77 3.19 4.07V14h-2.67v-3.6c0-.87-.01-1.97-1.2-1.97-1.2 0-1.39.93-1.39 1.91V14H6.67V6Z"/>
+  </g>
+  <text x="38" y="22.5" fill="#EAF4FB" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="12.5" font-weight="600">LinkedIn</text>
+</svg>
