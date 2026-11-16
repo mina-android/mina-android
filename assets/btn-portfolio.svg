@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="104" height="28" viewBox="0 0 104 28" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="38" viewBox="0 0 128 38" fill="none">
   <defs>
     <linearGradient id="maBlue" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#4AB4FF"/>
@@ -9,12 +9,12 @@
       <stop offset="100%" stop-color="#00A86B"/>
     </linearGradient>
   </defs>
-  <rect x="0.5" y="0.5" width="103" height="27" rx="4" fill="#161B22" stroke="#30363D" stroke-width="1"/>
-  <g transform="translate(9, 6) scale(0.16)">
+  <rect x="0.5" y="0.5" width="127" height="37" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+  <g transform="translate(11, 8) scale(0.21)">
     <path d="M16 88 V20 L50 56 L84 20 V88" fill="none" stroke="url(#maBlue)" stroke-width="9.5" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M33 88 L50 20 L67 88" fill="none" stroke="#EAF4FB" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M35 65 H65" fill="none" stroke="url(#maMint)" stroke-width="6" stroke-linecap="round"/>
     <circle cx="50" cy="65" r="4.5" fill="#2BD9A0"/>
   </g>
-  <text x="31" y="18" fill="#E6EDF3" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="500">Portfolio</text>
+  <text x="41" y="24" fill="#E6EDF3" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="13.5" font-weight="500">Portfolio</text>
 </svg>

@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="222" height="28" viewBox="0 0 222 28" fill="none">
-  <rect x="0.5" y="0.5" width="221" height="27" rx="4" fill="#161B22" stroke="#30363D" stroke-width="1"/>
-  <g transform="translate(10, 7)">
+<svg xmlns="http://www.w3.org/2000/svg" width="268" height="38" viewBox="0 0 268 38" fill="none">
+  <rect x="0.5" y="0.5" width="267" height="37" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+  <g transform="translate(13, 10) scale(1.285)">
     <path d="M2 0h6.5L12 3.5V13a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V1a1 1 0 0 1 1-1Z" fill="#E5252A"/>
     <path d="M8.5 0v2.5a1 1 0 0 0 1 1H12L8.5 0Z" fill="#F9B5B7"/>
     <path d="M3 8.8c1.6-.9 3.2-2.7 3.8-4.8.4 1.6 1.5 3.4 3.2 4.1-1.6.1-4.8.4-7 .7Z" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
   </g>
-  <text x="31" y="18" fill="#E6EDF3" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="500">IT Specialist Resume (PDF)</text>
+  <text x="41" y="24" fill="#E6EDF3" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="13.5" font-weight="500">IT Specialist Resume (PDF)</text>
 </svg>

@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio.minaashraf285.workers.dev/"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="28" /></a>&nbsp;
-  <a href="https://portfolio.minaashraf285.workers.dev/files/Universal_CV_Mina_Ashraf.pdf"><img src="assets/btn-cv.svg" alt="Universal CV (PDF)" height="28" /></a>&nbsp;
-  <a href="https://portfolio.minaashraf285.workers.dev/files/IT_Specialist_Resume_Mina_Ashraf.pdf"><img src="assets/btn-resume.svg" alt="IT Specialist Resume (PDF)" height="28" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/mina-ashraf-monir/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="28" /></a>&nbsp;
-  <a href="mailto:minaashraf285@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="28" /></a>
+  <a href="https://portfolio.minaashraf285.workers.dev/"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="38" /></a>&nbsp;
+  <a href="https://portfolio.minaashraf285.workers.dev/files/Universal_CV_Mina_Ashraf.pdf"><img src="assets/btn-cv.svg" alt="Universal CV (PDF)" height="38" /></a>&nbsp;
+  <a href="https://portfolio.minaashraf285.workers.dev/files/IT_Specialist_Resume_Mina_Ashraf.pdf"><img src="assets/btn-resume.svg" alt="IT Specialist Resume (PDF)" height="38" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/mina-ashraf-monir/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="38" /></a>&nbsp;
+  <a href="mailto:minaashraf285@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="38" /></a>
 </p>
 
 <img src="assets/showcase.gif" alt="Application Showcase Carousel" width="320" />
@@ -29,8 +29,8 @@
 Development and maintenance of these softwares are independent and self-supported. If any project made your life easier, consider supporting development on GitHub Sponsors or PayPal.
 
 <p>
-  <a href="https://github.com/sponsors/mina-android"><img src="assets/btn-sponsors.svg" alt="GitHub Sponsors" height="28" /></a>&nbsp;
-  <a href="https://paypal.me/minaashraf285"><img src="assets/btn-paypal.svg" alt="PayPal" height="28" /></a>
+  <a href="https://github.com/sponsors/mina-android"><img src="assets/btn-sponsors.svg" alt="GitHub Sponsors" height="38" /></a>&nbsp;
+  <a href="https://paypal.me/minaashraf285"><img src="assets/btn-paypal.svg" alt="PayPal" height="38" /></a>
 </p>
 
 ---
