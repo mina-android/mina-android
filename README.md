@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/logo.svg" alt="Mina Ashraf Logo" width="72" height="72" />
+
 # Mina Ashraf Monir
 
 ### Software Engineer & IT Specialist
@@ -43,26 +45,6 @@ I build native, cross-platform, and on-premise systems designed around **offline
 
 ---
 
-## Featured Systems & Open-Source Projects
-
-### Flagship Production & Open-Source Software
-
-| System | Stack | Highlights & Production Impact | Links |
-| :--- | :--- | :--- | :--- |
-| **Theatre System** | `Electron` `Node.js` `PostgreSQL` `WebSockets` `Docker` | Unified festival management platform deployed live across on-premise LAN terminals at **St. Markos Church Neiruz Festival 2026** (400 attendees/show, 9,200 tickets). Synchronizes box office ticketing, gate barcode admissions, jury scoring, and stage projector feeds with sub-second jittered WebSockets, `SELECT ... FOR UPDATE` row locks, and driverless `ESC/POS` thermal ticket printing. | [Case Study](https://portfolio.minaashraf285.workers.dev/projects/theatre-system.html) |
-| **Expensy** | `Flutter` `Dart` `SQLite WAL` `Provider` | Local-first personal finance and budget manager for Android (**66+ ★ on GitHub**, `GPL-3.0`). Features debit card balance inheritance from linked bank accounts, term deposits with automated yield schedules, rollover category budgets with daily allowance pacers, debt tracking, and `.xlsx`/`JSON` backups with zero cloud telemetry. | [GitHub](https://github.com/mina-android/Expensy) &bull; [Releases](https://github.com/mina-android/Expensy/releases/latest) &bull; [Case Study](https://portfolio.minaashraf285.workers.dev/projects/expensy.html) |
-| **IT Box** | `Flutter` `SQLite` `ARP/ICMP` `PDF` | Offline-first IT inventory, subnet calculator, and network diagnostics hub (**Deployed in production at Rada PR**, `GPL-3.0`). Tracks 25–50+ enterprise endpoints, warranties, and loaned peripherals alongside 1D/2D barcode auditing, IPv4 CIDR calculation, non-root `ARP/ICMP` discovery, Cisco IOS `.cfg` parsing, a 1U–42U rack visualizer, and vector PDF reporting. | [GitHub](https://github.com/mina-android/IT-Box) &bull; [Releases](https://github.com/mina-android/IT-Box/releases/latest) &bull; [Case Study](https://portfolio.minaashraf285.workers.dev/projects/it-box.html) |
-| **NAS Dash** | `Flutter` `TrueNAS API` `WSS` `ZFS` | Native Android monitoring and control companion for **TrueNAS SCALE** servers (`GPL-3.0`). Streams live per-core CPU, RAM, ZFS ARC hit ratios, and disk S.M.A.R.T. health over encrypted WebSockets (`WSS`), inspects ZFS pool/VDEV topologies, manages catalog apps, enforces biometric reboot guards, and performs zero-drop LAN-to-VPN (`WireGuard` / `NetBird` / `Tailscale`) handoff. | [GitHub](https://github.com/mina-android/NAS-Dash) &bull; [Releases](https://github.com/mina-android/NAS-Dash/releases) &bull; [Case Study](https://portfolio.minaashraf285.workers.dev/projects/nas-dash.html) |
-| **FitVerse** | `Flutter` `Gemini AI` `Health Connect` `Firestore` | Biometric fitness coaching platform (`MIT`) combining 50Hz accelerometer DSP peak detection for live repetition counting, **Android Health Connect** synchronization, a 90+ anatomical exercise library, local SQLite caching with Cloud Firestore sync, and context-aware **Google Gemini AI** training and nutrition analysis. | [GitHub](https://github.com/mina-android/fitverse) &bull; [Releases](https://github.com/mina-android/fitverse/releases/latest) &bull; [Case Study](https://portfolio.minaashraf285.workers.dev/projects/fitverse.html) |
-| **UnInsta** | `Flutter` `JSON Streaming` `Offline-First` | Privacy-preserving Instagram relationship analyzer (`GPL-3.0`). Directly unpacks and streams official Instagram `ZIP`/`JSON` export archives 100% on-device to identify non-reciprocal followers, pending requests, and mutual connections without account credentials, web scraping, or ban risk. | [GitHub](https://github.com/mina-android/UnInsta) &bull; [Releases](https://github.com/mina-android/UnInsta/releases) &bull; [Case Study](https://portfolio.minaashraf285.workers.dev/projects/uninsta.html) |
-
-### Additional Engineering Work
-
-- **KMT Of Egypt (Bilingual Web Platform & Payload CMS)**: Production bilingual web platform (English & Arabic with full LTR/RTL support) built with `Next.js 15`, `Payload CMS 3`, `TypeScript`, `PostgreSQL`, and `Docker Compose`, featuring an automated `/api/sync-youtube` background worker that monitors YouTube RSS feeds and schedules publications.
-- **Icefox (Privacy-Hardened Android Browser)**: Hardened Android browser maintained on `Kotlin`, `Android SDK`, and `Mozilla GeckoView` (forked from Iceraven / Mozilla Fenix), stripping cloud account sync, autofill telemetry, and background trackers.
-
----
-
 ## Core Technical Competencies
 
 - **Programming Languages**: Dart, Python, JavaScript / TypeScript, Kotlin, C++, Java, SQL, Bash / Shell, HTML5 & CSS3 / Tailwind CSS
@@ -98,9 +80,3 @@ I build native, cross-platform, and on-premise systems designed around **offline
 - **Reddit**: [u/mina_android285](https://www.reddit.com/user/mina_android285/)
 - **Instagram**: [@mina.s_pov (Photography)](https://www.instagram.com/mina.s_pov) &bull; [@mina.ashraf.monir1 (Personal)](https://www.instagram.com/mina.ashraf.monir1)
 - **Sponsorship**: [GitHub Sponsors](https://github.com/sponsors/mina-android) &bull; [PayPal](https://paypal.me/minaashraf285)
-
----
-
-<div align="center">
-  <sub>Maintained by <strong>Mina Ashraf Monir (mina-android)</strong> &bull; Cairo, Egypt &bull; Software built for reliability, autonomy, and performance.</sub>
-</div>
