@@ -26,4 +26,8 @@
 
 Development and maintenance of these softwares are independent and self-supported. If any project made your life easier, consider supporting development on GitHub Sponsors, PayPal, or Ko-fi.
 
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-EA4AAA?style=flat&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/mina-android) [![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=flat&logo=paypal&logoColor=white)](https://paypal.me/minaashraf285) [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=flat&logo=kofi&logoColor=white)](https://ko-fi.com/minaashraf285)
+<p align="center">
+  <a href="https://github.com/sponsors/mina-android"><img src="https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-EA4AAA?style=flat&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" /></a>
+  <a href="https://paypal.me/minaashraf285"><img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=flat&logo=paypal&logoColor=white" alt="PayPal" /></a>
+  <a href="https://ko-fi.com/minaashraf285"><img src="https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=flat&logo=kofi&logoColor=white" alt="Ko-fi" /></a>
+</p>
