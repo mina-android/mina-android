@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio.minaashraf285.workers.dev/"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="38" /></a>&nbsp;
-  <a href="https://portfolio.minaashraf285.workers.dev/files/Universal_CV_Mina_Ashraf.pdf"><img src="assets/btn-cv.svg" alt="Universal CV (PDF)" height="38" /></a>&nbsp;
-  <a href="https://portfolio.minaashraf285.workers.dev/files/IT_Specialist_Resume_Mina_Ashraf.pdf"><img src="assets/btn-resume.svg" alt="IT Specialist Resume (PDF)" height="38" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/mina-ashraf-monir/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="38" /></a>&nbsp;
-  <a href="mailto:minaashraf285@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="38" /></a>
+  <a href="https://portfolio.minaashraf285.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=flat&logo=cloudflare&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://portfolio.minaashraf285.workers.dev/files/Universal_CV_Mina_Ashraf.pdf"><img src="https://img.shields.io/badge/Universal%20CV-PDF-181717?style=flat&logo=readdotcv&logoColor=white" alt="Universal CV (PDF)" /></a>
+  <a href="https://portfolio.minaashraf285.workers.dev/files/IT_Specialist_Resume_Mina_Ashraf.pdf"><img src="https://img.shields.io/badge/IT%20Resume-PDF-181717?style=flat&logo=readdotcv&logoColor=white" alt="IT Specialist Resume (PDF)" /></a>
+  <a href="https://www.linkedin.com/in/mina-ashraf-monir/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat" alt="LinkedIn" /></a>
+  <a href="mailto:minaashraf285@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
@@ -24,9 +24,6 @@
 
 ## Support & Donations
 
-Development and maintenance of these softwares are independent and self-supported. If any project made your life easier, consider supporting development on GitHub Sponsors or PayPal.
+Development and maintenance of these softwares are independent and self-supported. If any project made your life easier, consider supporting development on GitHub Sponsors, PayPal, or Ko-fi.
 
-<p>
-  <a href="https://github.com/sponsors/mina-android"><img src="assets/btn-sponsors.svg" alt="GitHub Sponsors" height="38" /></a>&nbsp;
-  <a href="https://paypal.me/minaashraf285"><img src="assets/btn-paypal.svg" alt="PayPal" height="38" /></a>
-</p>
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-EA4AAA?style=flat&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/mina-android) [![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=flat&logo=paypal&logoColor=white)](https://paypal.me/minaashraf285) [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=flat&logo=kofi&logoColor=white)](https://ko-fi.com/minaashraf285)
